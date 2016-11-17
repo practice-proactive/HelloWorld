@@ -1,12 +1,12 @@
 # List of projects
 
-### [On going Projects](https://github.com/practice-proactive/HelloWorld/blob/master/projects.md#ongoing-projects-)
-### [Proposed Projects](https://github.com/practice-proactive/HelloWorld/blob/master/projects.md#proposed-projects-)
+### [On going Projects](#ongoing-projects)
+### [Proposed Projects](#proposed-projects)
 
 ------------------------
 
-### want to propose a project ? [see steps](https://github.com/practice-proactive/HelloWorld/blob/master/projects.md#steps-to-propose-a-project-)
-### want to contribute in an ongoing project ? [see steps](https://github.com/practice-proactive/HelloWorld/blob/master/projects.md#steps-to-contribute-on-an-ongoing-project-)
+### want to propose a project ? [see steps](#steps-to-propose-a-project)
+### want to contribute in an ongoing project ? [see steps](#steps-to-contribute-on-an-ongoing-project)
 
 -------------------------
 
