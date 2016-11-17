@@ -13,6 +13,7 @@ We thought it would be interesting to communicate with all the computer science 
 we have a gitter chatroom to communicate, everyone is welcomed, ask questions about stuff. someone will help you out or guide you to a proper direction. you can plan or propose a project with other group members and work on it. get help from everyone when stuck somewhere.
 
 `keep in mind that we have few chatroom rules so read those before asking questions`
+[chatroom rules](https://github.com/practice-proactive/HelloWorld/blob/master/chatroom-rules.md)
 
 ### Where to start ?
 
