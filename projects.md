@@ -24,6 +24,12 @@
 - [About Project/Readme](https://github.com/electron0zero/IngeNUity17/blob/master/README.md)
 - Contact - surajnath.sidh@st.niituniversity.in
 
+#### :package: :globe_with_meridians: NIIT University Tree Navigation Web Application Portal
+
+- [Source Code Repository](https://github.com/rahulchhangani/treenavigation)
+- [About Project/Readme](https://github.com/rahulchhangani/treenavigation/blob/master/README.md)
+- Contact - rahul.chhangani89@gmail.com
+
 ------------------------------
 
 # Proposed Projects
