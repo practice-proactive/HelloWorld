@@ -1,7 +1,7 @@
-# List of projects
+# :package: :memo: List of projects 
 
-### [On going Projects](#ongoing-projects)
-### [Proposed Projects](#proposed-projects)
+### :package: [On going Projects](#ongoing-projects)
+### :new: [Proposed Projects](#proposed-projects)
 
 ------------------------
 
@@ -12,13 +12,13 @@
 
 # Ongoing projects
 
-#### Ingenuity17 Website 
+#### :package: :globe_with_meridians: Ingenuity17 Website 
 
 - [Source Code Repository](https://github.com/ksg14/ingenuity17)
 - [About Project/Readme](https://github.com/ksg14/ingenuity17/blob/master/README.md)
 - Contact - karanjits.gill@st.niituniversity.in
 
-#### Ingenuity17 Android App
+#### :package: :iphone: Ingenuity17 Android App
 
 - [Source Code Repository](https://github.com/electron0zero/IngeNUity17)
 - [About Project/Readme](https://github.com/electron0zero/IngeNUity17/blob/master/README.md)
@@ -28,9 +28,10 @@
 
 # Proposed Projects
 
+
 -----------------------------
 
-## steps to propose a project
+## steps to propose a project :new: :package:
 
 - [fork](https://guides.github.com/activities/forking/) this repo
 - edit this file to add your project to corresponding category (proposed/ongoing)
@@ -39,9 +40,9 @@
 
 -----------------------------
 
-## steps to contribute on an ongoing project
+## steps to contribute on an ongoing project  :octocat:
 
 - look for a project that you are interested
 - contact on mentioned contact medium
-- contribute 
+- contribute :busts_in_silhouette:
 - profit :moneybag:
