@@ -6,7 +6,7 @@
 
 - :package: [Projects](https://github.com/practice-proactive/HelloWorld/blob/master/projects.md)
 - :speech_balloon: [Chatroom](https://gitter.im/practice-proactive/Lobby)
-- :speech_balloon: [Chatroom rules](https://github.com/practice-proactive/HelloWorld/blob/master/chatroom-rules.md)
+- :speech_balloon: :cop: [Chatroom rules](https://github.com/practice-proactive/HelloWorld/blob/master/chatroom-rules.md)
 
 ---------
 
@@ -44,7 +44,8 @@ ask any questions you have in our [gitter chatroom](https://gitter.im/practice-p
 
 #### 2. contibute to group :busts_in_silhouette:
 
-browse through :package: :package: [Projects](https://github.com/practice-proactive/HelloWorld/blob/master/projects.md), choose a project you like and work on it.
+browse through :package: [Projects](https://github.com/practice-proactive/HelloWorld/blob/master/projects.md), choose a project you like and work on it.
+
 did't found a project you like, add your project or propose a new project
 
 remember everyone can add/propose :new: new projects.
