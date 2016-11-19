@@ -5,8 +5,8 @@
 
 ------------------------
 
-### want to propose a project ? [see steps](#steps-to-propose-a-project)
-### want to contribute in an ongoing project ? [see steps](#steps-to-contribute-on-an-ongoing-project)
+### want to propose a project ? [see steps](#steps-to-propose-a-project-new-package)
+### want to contribute in an ongoing project ? [see steps](#steps-to-contribute-on-an-ongoing-project--octocat)
 
 -------------------------
 
