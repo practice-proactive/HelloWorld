@@ -30,6 +30,13 @@
 - [About Project/Readme](https://github.com/rahulchhangani/treenavigation/blob/master/README.md)
 - Contact - rahul.chhangani89@gmail.com
 
+#### :package: :globe_with_meridians: SALS Simple Login & Signup System Web Application
+
+- [Source Code Repository](https://github.com/gvaishno/SALS)
+- [About Project/Readme](https://github.com/gvaishno/SALS/blob/master/README.md)
+- Contact - vaishnochaitanya7@gmail.com
+
+
 ------------------------------
 
 # Proposed Projects
