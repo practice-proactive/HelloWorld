@@ -34,11 +34,6 @@
 
 # Proposed Projects
 
-#### :package: :globe_with_meridians: StockholmHotline Chat server
-
-- [Source Code Repository](https://github.com/RiflerRick/StockholmHotline)
-- [About Project/Readme](https://github.com/RiflerRick/StockholmHotline/blob/master/Java/README.md)
-- Contact - rajdeep.mukherjee@st.niituniversity.in
 -----------------------------
 
 ## steps to propose a project :new: :package:
