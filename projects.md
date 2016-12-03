@@ -47,6 +47,11 @@
 - [About Project/Readme](https://github.com/RiflerRick/StockholmHotline/blob/master/README.md)
 - Contact - rajdeep.mukherjee@st.niituniversity.in
 
+#### :package: :mortar_board: Moodle-Fetch
+- [Source Code Repository](https://github.com/raghavmittal101/moodle-fetch)  
+- [About Project/Readme](https://github.com/raghavmittal101/moodle-fetch/blob/master/README.md)  
+- Contact - raghav.mittal@st.niituniversity.in
+
 -----------------------------
 
 ## steps to propose a project :new: :package:
