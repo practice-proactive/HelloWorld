@@ -12,45 +12,44 @@
 
 # Ongoing projects
 
-#### :package: :globe_with_meridians: Ingenuity17 Website 
-
-- [Source Code Repository](https://github.com/ksg14/ingenuity17)
-- [About Project/Readme](https://github.com/ksg14/ingenuity17/blob/master/README.md)
-- Contact - karanjits.gill@st.niituniversity.in
-
-#### :package: :iphone: Ingenuity17 Android App
-
-- [Source Code Repository](https://github.com/electron0zero/IngeNUity17)
-- [About Project/Readme](https://github.com/electron0zero/IngeNUity17/blob/master/README.md)
+#### Ingenuity17 Website 
+- [Source Code Repository](https://github.com/electron0zero/Ingenuity2017)
 - Contact - surajnath.sidh@st.niituniversity.in
 
-#### :package: :globe_with_meridians: NIIT University Tree Navigation Web Application Portal
+#### Ingenuity17 Android App
+- [Source Code Repository](https://github.com/electron0zero/IngeNUity17)
+- Contact - surajnath.sidh@st.niituniversity.in
+
+#### NIIT University Tree Navigation Web Application Portal
 
 - [Source Code Repository](https://github.com/rahulchhangani/treenavigation)
-- [About Project/Readme](https://github.com/rahulchhangani/treenavigation/blob/master/README.md)
 - Contact - rahul.chhangani89@gmail.com
 
-#### :package: :globe_with_meridians: SALS Simple Login & Signup System Web Application
+#### SALS Simple Login & Signup System Web Application
 
 - [Source Code Repository](https://github.com/gvaishno/SALS)
-- [About Project/Readme](https://github.com/gvaishno/SALS/blob/master/README.md)
 - Contact - vaishnochaitanya7@gmail.com
+
+#### Annoymous Chat Server
+
+- [Source Code Repository](https://github.com/RiflerRick/AnnoymousChatServer)
+- Contact - rajdeep.mukherjee@st.niituniversity.in
+
+#### Moodle-Fetch
+- [Source Code Repository](https://github.com/raghavmittal101/moodle-fetch)  
+- Contact - raghav.mittal@st.niituniversity.in
+
+#### Recommend
+
+- [Source Code Repository](https://github.com/ProjectRecommend/Recommend)
+- Contact - rajdeep.mukherjee@st.niituniversity.in / raghav.mittal@st.niituniversity.in / surajnath.sidh@st.niituniversity.in
+
 
 
 ------------------------------
 
 # Proposed Projects
 
-#### :package: :globe_with_meridians: StockholmHotline Chat Server
-
-- [Source Code Repository](https://github.com/RiflerRick/StockholmHotline)
-- [About Project/Readme](https://github.com/RiflerRick/StockholmHotline/blob/master/README.md)
-- Contact - rajdeep.mukherjee@st.niituniversity.in
-
-#### :package: :mortar_board: Moodle-Fetch
-- [Source Code Repository](https://github.com/raghavmittal101/moodle-fetch)  
-- [About Project/Readme](https://github.com/raghavmittal101/moodle-fetch/blob/master/README.md)  
-- Contact - raghav.mittal@st.niituniversity.in
 
 -----------------------------
 
