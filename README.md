@@ -17,7 +17,7 @@ We are a bunch of students(!:alien:) who are interested in Computer Science and 
 We thought it would be interesting to communicate with all the Computer Science enthusiasts around us and build cool stuff and learn new things from people around us. We believe in learning by building or breaking stuff.
 
 ## How :question:
-We welcome you to chat and ask questions in Gitter chatroom, everyone is welcomed, ask questions about stuff. We will surely help you out or guide you to a proper direction. You can plan or propose a project with other group members and work on it. Get help from everyone when stuck somewhere.
+Introduce yourself in our Gitter Chatroom. We welcome you to chat and ask questions. We will surely help you out or guide you to a proper direction. You can plan or propose a project with other group members and work on it. Get help from everyone when stuck somewhere.
 
 `keep in mind that we have few chatroom rules so read those before asking questions`
 :speech_balloon: [Chatroom rules](https://github.com/practice-proactive/HelloWorld/blob/master/chatroom-rules.md)
